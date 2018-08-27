@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:paddingTop="30dp"
+        tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/bt_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"/>
+    <comvoice.example.zhangbin.mojidemo.IndexHorizontalScrollView
+        android:id="@+id/indexHorizontalScrollView"
+        android:background="#66050505"
+        android:fadeScrollbars="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <comvoice.example.zhangbin.mojidemo.Today24HourView
+            android:id="@+id/today24HourView"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent" />
+
+    </comvoice.example.zhangbin.mojidemo.IndexHorizontalScrollView>
+
+    <!--<ImageView-->
+        <!--android:id="@+id/iv1"-->
+        <!--android:src="@mipmap/hour24_hint"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content" />-->
+
+    <!--<ImageView-->
+        <!--android:layout_below="@+id/iv1"-->
+        <!--android:src="@mipmap/hour_24_float"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content" />-->
+</RelativeLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="comvoice.example.zhangbin.systemservicedemo.MainActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/bt_netTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="网络测试"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <Button
+        android:id="@+id/bt_wifiTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="wifi打开或关闭"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <Button
+        android:id="@+id/bt_volumeTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="音量管理"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <Button
+        android:id="@+id/bt_packageTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="当前包名"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <Button
+        android:id="@+id/bt_cutTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="剪切板"/>
+</LinearLayout>

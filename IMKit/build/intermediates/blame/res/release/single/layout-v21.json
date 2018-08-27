@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\UseSuccessApp\\FLYTestApp\\IMKit\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\zhangbin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\4f5394eaf6313120d11c0e4fe65987c4\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\UseSuccessApp\\FLYTestApp\\IMKit\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\zhangbin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\4f5394eaf6313120d11c0e4fe65987c4\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\UseSuccessApp\\FLYTestApp\\IMKit\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\zhangbin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\4f5394eaf6313120d11c0e4fe65987c4\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\UseSuccessApp\\FLYTestApp\\IMKit\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\zhangbin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\4f5394eaf6313120d11c0e4fe65987c4\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

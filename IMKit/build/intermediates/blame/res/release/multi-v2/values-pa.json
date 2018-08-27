@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\UseSuccessApp\\FLYTestApp\\IMKit\\build\\intermediates\\res\\merged\\release\\values-pa\\values-pa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zhangbin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\4f5394eaf6313120d11c0e4fe65987c4\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\UseSuccessApp\\FLYTestApp\\IMKit\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-pa\\values-pa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zhangbin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\4f5394eaf6313120d11c0e4fe65987c4\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

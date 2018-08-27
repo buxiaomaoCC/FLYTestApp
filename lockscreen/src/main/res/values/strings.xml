@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GestureLockView</string>
+    <string name="action_settings">Settings</string>
+    <string name="setting_self">我的</string>
+    <string name="setting_set">设置</string>
+    <string name="setting_quit">再按一次退出程序</string>
+</resources>

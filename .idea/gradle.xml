@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/3dgallery" />
+            <option value="$PROJECT_DIR$/EventBus" />
+            <option value="$PROJECT_DIR$/IMKit" />
+            <option value="$PROJECT_DIR$/IMLib" />
+            <option value="$PROJECT_DIR$/ImageLoad" />
+            <option value="$PROJECT_DIR$/abstractapp" />
+            <option value="$PROJECT_DIR$/breakpointdemo" />
+            <option value="$PROJECT_DIR$/dialogapp" />
+            <option value="$PROJECT_DIR$/downloaderhelper" />
+            <option value="$PROJECT_DIR$/dropdownmenu" />
+            <option value="$PROJECT_DIR$/eventbustest" />
+            <option value="$PROJECT_DIR$/flysocketclient" />
+            <option value="$PROJECT_DIR$/flysocketservice" />
+            <option value="$PROJECT_DIR$/gridviewver" />
+            <option value="$PROJECT_DIR$/httpget" />
+            <option value="$PROJECT_DIR$/jgpush" />
+            <option value="$PROJECT_DIR$/jgpushexample" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/liveapp" />
+            <option value="$PROJECT_DIR$/lockscreen" />
+            <option value="$PROJECT_DIR$/md5codedemo" />
+            <option value="$PROJECT_DIR$/mobimdemo" />
+            <option value="$PROJECT_DIR$/mojidemo" />
+            <option value="$PROJECT_DIR$/myview" />
+            <option value="$PROJECT_DIR$/onekeyshare" />
+            <option value="$PROJECT_DIR$/parcelable" />
+            <option value="$PROJECT_DIR$/rongclouddemo" />
+            <option value="$PROJECT_DIR$/singleton" />
+            <option value="$PROJECT_DIR$/smstest" />
+            <option value="$PROJECT_DIR$/socketclientdemo" />
+            <option value="$PROJECT_DIR$/socketdemo" />
+            <option value="$PROJECT_DIR$/startgetimage" />
+            <option value="$PROJECT_DIR$/systemservicedemo" />
+            <option value="$PROJECT_DIR$/vitamiolibrary" />
+            <option value="$PROJECT_DIR$/zxingdemo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
